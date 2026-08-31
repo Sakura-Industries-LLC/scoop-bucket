@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.2/dntls_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.3/dntls_0.1.3_windows_amd64.zip",
             "bin": [
                 "dntls.exe"
             ],
-            "hash": "400717ec800d0824587eaab6ff26528ec756eae33284f02cd3ed243a372dccb5"
+            "hash": "4bf8db3faddec5858b77f829af0a0aba2bdf1f95d7ffebcffdd96fa4f23233e9"
         },
         "arm64": {
-            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.2/dntls_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.3/dntls_0.1.3_windows_arm64.zip",
             "bin": [
                 "dntls.exe"
             ],
-            "hash": "b83f6e630e19be455b2c48d531e9ad45c1cba0273b3b3ff3bf3933f7d1888398"
+            "hash": "d3931666ff2fd57769cf03e6f6ccf66b5e2b7e092bf3c40eee22883225884235"
         }
     },
     "homepage": "https://github.com/Sakura-Industries-LLC/dntls-public",
