@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.1/dntls_0.1.1_windows_amd64.zip",
+            "bin": [
+                "dntls.exe"
+            ],
+            "hash": "fb3deb9f6fcd9a03e57b44bc168d1e7c6f0ae72a5095a72ece9bdd438302c063"
+        },
+        "arm64": {
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-public/releases/download/v0.1.1/dntls_0.1.1_windows_arm64.zip",
+            "bin": [
+                "dntls.exe"
+            ],
+            "hash": "c11946f329aae967f200c87ace8214735975bd06fbfe2c835cfdd09c0392e07b"
+        }
+    },
+    "homepage": "https://github.com/Sakura-Industries-LLC/dntls-public",
+    "license": "MIT",
+    "description": "Public command-line client for DNTLS"
+}
