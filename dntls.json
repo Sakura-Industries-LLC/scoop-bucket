@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sakura-Industries-LLC/dntls-testnet/releases/download/cli/v0.2.0/dntls_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-testnet/releases/download/cli/v0.5.0/dntls_0.5.0_windows_amd64.zip",
             "bin": [
                 "dntls.exe"
             ],
-            "hash": "daeb545e3259b8af55680006d7383a9065d746a5015edf6ff201cc855787a647"
+            "hash": "0d9a1623d1a8052356a067705bb1c27eb25130691b921769ff4021e8b639dc9b"
         },
         "arm64": {
-            "url": "https://github.com/Sakura-Industries-LLC/dntls-testnet/releases/download/cli/v0.2.0/dntls_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/Sakura-Industries-LLC/dntls-testnet/releases/download/cli/v0.5.0/dntls_0.5.0_windows_arm64.zip",
             "bin": [
                 "dntls.exe"
             ],
-            "hash": "6eb21bb61fbb768b05de3e8a06158a2a391408fca84293e1c77e87320369531f"
+            "hash": "f7af21054dc1dc6419fb708a49b88f1291c651fed18919de725ef8b48997d7f3"
         }
     },
     "homepage": "https://github.com/Sakura-Industries-LLC/dntls-testnet",
-    "license": "MIT",
+    "license": "AGPL-3.0-only",
     "description": "Public command-line client for DNTLS"
 }
